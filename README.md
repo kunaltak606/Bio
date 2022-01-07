@@ -23,9 +23,7 @@
     <br><br>
     Web Designer
     <br><br>
-    Learning NodeJS
-    <br><br> 
-    & Puppeteer
+    Learning Ethical Hacking
   </samp>
 </p>
 
